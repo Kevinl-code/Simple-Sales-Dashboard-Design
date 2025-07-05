@@ -27,7 +27,7 @@ To create an interactive dashboard that allows users to:
 ## 📊 Features
 - **Line Chart**: Sales over time (Month-Year).  
 - **Bar Chart**: Total sales by region.  
-- **Donut Chart**: Sales distribution by category.  
+- **Pie Chart**: Sales distribution by category.  
 - **Filters**: Explore data by Region and Category.  
 
 ---
@@ -43,8 +43,7 @@ To create an interactive dashboard that allows users to:
 
 ## 📌 Author
 **Kevin Lazarus**  
-*M.Sc. Data Science /*
-*Bishop Heber College*/
+**Bishop Heber College**
 
 ---
 
